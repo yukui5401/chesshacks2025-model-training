@@ -1,3 +1,5 @@
 searchless_chess/
 .venv/
 .python-version
+__pycache__
+*.csv
